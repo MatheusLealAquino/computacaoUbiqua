@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javino_stable_1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Javino-stable-1.1/Javino/Java side/javino_stable_1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
