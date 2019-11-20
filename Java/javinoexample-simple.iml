@@ -24,5 +24,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="javino_stable_1.1" level="project" />
+    <orderEntry type="library" name="xchart-3.6.0" level="project" />
   </component>
 </module>

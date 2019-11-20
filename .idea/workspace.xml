@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53003d73-d4f0-4c47-937c-a798f46c18ae" name="Default Changelist" comment="" />
+    <list default="true" id="dbbfed33-3f47-480e-aaa5-92066042a6e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/libraries/javino_stable_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/.idea/libraries/javino_stable_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/javinoexample-simple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/javinoexample-simple.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arduino/sketch_nov05a.ino" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,14 +20,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TDTNFpTZkQNbgNZvn4p3nQ6rwo" />
+  <component name="ProjectId" id="1TkqRN6o3TpJJICTpO2xCoAGKqg" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Javino-stable-1.1/Javino/Java side/javino_stable_1.1.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,13 +43,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53003d73-d4f0-4c47-937c-a798f46c18ae" name="Default Changelist" comment="" />
-      <created>1572993624632</created>
+      <changelist id="dbbfed33-3f47-480e-aaa5-92066042a6e0" name="Default Changelist" comment="" />
+      <created>1574014432861</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572993624632</updated>
-      <workItem from="1572993640705" duration="2078000" />
-      <workItem from="1572996142385" duration="568000" />
+      <updated>1574014432861</updated>
+      <workItem from="1574014441206" duration="82000" />
     </task>
     <servers />
   </component>
