@@ -3,7 +3,7 @@
 ## Universidade Federal Fluminense  
 ## Alunos:  
 Matheus Leal  
-João Victor Figueroa
+João Victor Figueroa  
 Lorenna Nascimento  
 Eduardo Gouvea  
 
