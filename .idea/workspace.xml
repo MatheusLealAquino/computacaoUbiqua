@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbbfed33-3f47-480e-aaa5-92066042a6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/libraries/javino_stable_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/.idea/libraries/javino_stable_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/bin/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/javinoexample-simple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/javinoexample-simple.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arduino/sketch_nov05a.ino" beforeDir="false" />
-    </list>
+    <list default="true" id="dbbfed33-3f47-480e-aaa5-92066042a6e0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574014432861</updated>
       <workItem from="1574014441206" duration="82000" />
+      <workItem from="1574637574034" duration="20000" />
     </task>
     <servers />
   </component>
@@ -60,7 +52,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
