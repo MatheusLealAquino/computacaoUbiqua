@@ -1,6 +1,6 @@
 # Atividade prática com Arduino - Tópicos em Redes 3  
-# Universidade Federal Fluminense  
 
+## Universidade Federal Fluminense  
 ## Alunos:  
 Matheus Leal  
 João Victor Figueroa
@@ -12,11 +12,11 @@ Luis Paixão
 Desenvolver um projeto com Arduino, medir temperatura e luminosidade. Coletar através da interface serial (Usando o Javino) os valores e plotar um gráfico dos dados.
 
 ### Tecnologias:  
-Java  7
+Java 7  
 C++ (Arduino)  
 
 ### Frameworks:  
-Javino (Biblioteca Java e Arduino)  
+Javino (Biblioteca Java e Arduino)   
 Xchart (Geração dos gráficos)  
 
 ### Execução:  
@@ -25,4 +25,6 @@ Xchart (Geração dos gráficos)
 * Rodar main do código
 
 ### Gráfico gerado:  
-![Gráfico com dados coletados](Graph.png)
+![Gráfico com dados coletados](Graph.png)  
+* Esquerda: Luminosidade
+* Direita: Temperatura
