@@ -6,7 +6,6 @@ Matheus Leal
 João Victor Figueroa
 Lorenna Nascimento  
 Eduardo Gouvea  
-Luis Paixão  
 
 ### Objetivo:  
 Desenvolver um projeto com Arduino, medir temperatura e luminosidade. Coletar através da interface serial (Usando o Javino) os valores e plotar um gráfico dos dados.
